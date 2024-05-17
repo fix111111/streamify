@@ -13,7 +13,7 @@ You can install the package using npm:
 导入 Streamify
 
 ```bash
-npm install streamify
+npm install @fix111111/streamify
 ```
 
 ## Usage
