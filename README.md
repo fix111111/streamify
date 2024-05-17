@@ -1,19 +1,19 @@
-# streamify
+# http-streamify
 
 > Extracted from [openai-node](https://github.com/openai/openai-node)
 
-Streamify is a library for creating and handling streams, especially for Server-Sent Events (SSE) and newline-delimited JSON streams.
+http-streamify is a library for creating and handling streams, especially for Server-Sent Events (SSE) and newline-delimited JSON streams.
 
-Streamify 是一个用于处理 Server-Sent Events (SSE) 和可读流的 JavaScript 库。它提供了将 SSE 响应和以换行符分隔的可读流转换为异步迭代器的功能。该库适用于在浏览器和 Node.js 环境中使用。
+http-streamify 是一个用于处理 Server-Sent Events (SSE) 和可读流的 JavaScript 库。该库适用于在浏览器和 Node.js 环境中使用。
 
 ## Installation
 
 You can install the package using npm:
 
-导入 Streamify
+导入 http-streamify
 
 ```bash
-npm install @fix111111/streamify
+npm install http-streamify
 ```
 
 ## Usage

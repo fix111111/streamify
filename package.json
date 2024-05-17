@@ -1,5 +1,5 @@
 {
-  "name": "@fix111111/streamify",
+  "name": "http-streamify",
   "version": "1.0.0",
   "description": "Streamify is a library for creating and handling streams, especially for Server-Sent Events (SSE) and newline-delimited JSON streams.",
   "main": "src/index.js",
