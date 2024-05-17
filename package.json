@@ -12,6 +12,10 @@
   },
   "keywords": [
     "stream",
+    "streaming",
+    "http-streamify",
+    "http",
+    "server-sent-events",
     "SSE",
     "readable"
   ],
